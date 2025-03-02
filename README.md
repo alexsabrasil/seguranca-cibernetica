@@ -22,3 +22,5 @@ O objetivo deste repositório é fornecer um ambiente para práticas de defesa c
 1. **Clone o repositório**:
    ```bash
    git clone https://github.com/seu-usuario/atividade-pratica-defesa-cibernetica.git
+
+####   Autora: Alexsandra Tavares
